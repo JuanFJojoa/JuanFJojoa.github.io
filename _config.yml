@@ -5,5 +5,7 @@
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: [The title of your site]
-description: [A short description of your site's purpose]
+title: Juan F Jojoa
+description: I am a mechatronic engineer who is passionate about cybersecurity and IoT. My focus is on finding solutions that benefit both organizations and individuals. I continually work to expand my knowledge and skills to meet the ever-changing challenges of this dynamic field. I find joy in utilizing technology to analyze and solve complex problems. I aim to create a positive impact by safeguarding crucial systems and contributing to a secure digital future.
+
+
